@@ -1,0 +1,28 @@
+users:
+    -
+        name: ほげ ほげ男
+        full_name:
+            first_name: ほげ
+            last_name: ほげ男
+        sex: male
+        birthday: 1990-12-12
+        self_introduction:
+            long: ほげほげ男です。よろしくおねがいします！
+            short: しゃす！
+        image_urls:
+            - /my/photo/01.png
+            - /my/photo/02.png
+            - /my/photo/03.png
+        shemale: false
+    -
+        name: ふが ふが子
+        full_name:
+            first_name: ふが
+            last_name: ふが子
+        sex: female
+        birthday: 1994-03-03
+        self_introduction:
+            long: ふが子です！(≧∀≦*)
+        image_urls:
+            - /my/photo/01.png
+        shemale: true
