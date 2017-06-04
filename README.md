@@ -1,5 +1,6 @@
 # go-yaml-sample
 golangでyamlを読み込むサンプルです
+http://tweeeety.hateblo.jp/entry/2017/06/04/231043
 
 # setup
 
