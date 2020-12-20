@@ -1,3 +1,0 @@
-package: yaml_sample
-import:
-- package: gopkg.in/yaml.v2
